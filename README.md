@@ -1,4 +1,4 @@
-# naohasa-reporter
+# alert-reporter
 
 To install dependencies:
 

@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "naohasa-reporter",
+      "name": "alert-reporter",
       "devDependencies": {
         "@types/bun": "latest",
       },
